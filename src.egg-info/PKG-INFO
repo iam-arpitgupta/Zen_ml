@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Author: Arpit Guptra
+Author-email: thearpitgupta2003
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
